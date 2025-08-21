@@ -18,8 +18,6 @@ Este projeto é um exemplo educativo para iniciantes em programação funcional 
 [Clojure](https://clojure.org/) é uma linguagem de programação funcional que roda na **JVM (Java Virtual Machine)**.  
 Ela é muito usada em processamento de dados, aplicações financeiras e sistemas de alta confiabilidade.  
 
-> Mesmo que você nunca tenha usado Clojure antes, este projeto é simples o suficiente para começar.
-
 ---
 
 ## 🚀 Como rodar o projeto
