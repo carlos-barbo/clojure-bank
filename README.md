@@ -1,44 +1,50 @@
-# bank
+# 💰 Clojure Bank
 
-FIXME: description
+![Clojure](https://img.shields.io/badge/language-Clojure-brightgreen)
 
-## Installation
+![Status](https://img.shields.io/badge/status-active-success)
 
-Download from http://example.com/FIXME.
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Usage
+Um sistema simples de transações em **Clojure**, com um **menu interativo no terminal**.  
+Você pode registrar **compras** e **vendas**, listar todas as transações feitas e calcular os totais.  
 
-FIXME: explanation
+Este projeto é um exemplo educativo para iniciantes em programação funcional e em Clojure.  
 
-    $ java -jar bank-0.1.0-standalone.jar [args]
+---
 
-## Options
+## 🧐 O que é Clojure?
 
-FIXME: listing of options this app accepts.
+[Clojure](https://clojure.org/) é uma linguagem de programação funcional que roda na **JVM (Java Virtual Machine)**.  
+Ela é muito usada em processamento de dados, aplicações financeiras e sistemas de alta confiabilidade.  
 
-## Examples
+> Mesmo que você nunca tenha usado Clojure antes, este projeto é simples o suficiente para começar.
 
-...
+---
 
-### Bugs
+## 🚀 Como rodar o projeto
 
-...
+### 🔧 Pré-requisitos
+Antes de começar, você precisa ter instalado:
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+1. **Java 8 ou superior**  
+   - Baixe em: [https://adoptium.net/](https://adoptium.net/)  
+   - Para confirmar se está instalado:  
+     ```bash
+     java -version
+     ```
 
-## License
+2. **Leiningen** (ferramenta para rodar projetos Clojure)  
+   - Guia de instalação: [https://leiningen.org/](https://leiningen.org/)  
+   - Para confirmar se está instalado:  
+     ```bash
+     lein --version
+     ```
 
-Copyright © 2025 FIXME
+### 📥 Instalação do projeto
 
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
+Clone este repositório e entre na pasta:
 
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+```bash
+git clone https://github.com/seu-usuario/clojure-bank.git
+cd clojure-bank
