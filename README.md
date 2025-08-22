@@ -1,10 +1,6 @@
 # 💰 Clojure Bank
 
-![Clojure](https://img.shields.io/badge/language-Clojure-brightgreen)
-
-![Status](https://img.shields.io/badge/status-active-success)
-
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Clojure](https://img.shields.io/badge/language-Clojure-brightgreen) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Um sistema simples de transações em **Clojure**, com um **menu interativo no terminal**.  
 Você pode registrar **compras** e **vendas**, listar todas as transações feitas e calcular os totais.  
