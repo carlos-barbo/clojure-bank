@@ -40,5 +40,5 @@ Antes de começar, você precisa ter instalado:
 Clone este repositório e entre na pasta:
 
 ```bash
-git clone https://github.com/seu-usuario/clojure-bank.git
+git clone https://github.com/carlos-barbo/clojure-bank.git
 cd clojure-bank
